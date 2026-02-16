@@ -1,5 +1,5 @@
-import {LogLevel, LogPipe} from './ConsoleOverrides';
-import {simplifyJson} from './JsonSimplifier';
+import {LogLevel, LogPipe} from './console-overrides';
+import {simplifyJson} from './json-simplifier';
 
 /**
  *  LogCachePipe caches up to 'cacheSize' messages,

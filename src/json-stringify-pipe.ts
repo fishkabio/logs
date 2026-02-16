@@ -1,5 +1,5 @@
-import {createJsonPipe, getDefaultJsonPipeOptions, JsonPipe, JsonPipeOptions} from './JsonPipe';
-import {LogPipe} from './ConsoleOverrides';
+import {createJsonPipe, getDefaultJsonPipeOptions, JsonPipe, JsonPipeOptions} from './json-pipe';
+import {LogPipe} from './console-overrides';
 
 /** JsonStringifyPipeOptions are the same as JsonPipeOptions today. */
 export interface JsonStringifyPipeOptions extends JsonPipeOptions {

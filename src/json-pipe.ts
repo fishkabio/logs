@@ -1,5 +1,5 @@
-import {getDefaultJsonSimplifierOptions, JsonSimplifierOptions, simplifyJson, simplifyValue} from './JsonSimplifier';
-import {LogLevel, LogPipe} from './ConsoleOverrides';
+import {getDefaultJsonSimplifierOptions, JsonSimplifierOptions, simplifyJson, simplifyValue} from './json-simplifier';
+import {LogLevel, LogPipe} from './console-overrides';
 
 /** Options for JsonPipe. */
 export interface JsonPipeOptions extends JsonSimplifierOptions {

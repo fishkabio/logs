@@ -1,4 +1,4 @@
-import {LogLevel, LogPipe} from './ConsoleOverrides';
+import {LogLevel, LogPipe} from './console-overrides';
 
 /** Options for createLogLevelFilterPipe. */
 export interface LogLevelFilterPipeOptions {

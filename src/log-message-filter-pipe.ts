@@ -1,4 +1,4 @@
-import {LogPipe} from './ConsoleOverrides';
+import {LogPipe} from './console-overrides';
 
 /** Options for createLogMessageFilterPipe. */
 export interface LogMessageFilterPipeOptions {

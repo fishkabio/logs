@@ -1,5 +1,5 @@
 import {describe, expect, it} from '@jest/globals';
-import {createDateTimePipe} from '../src/DateTimePipe';
+import {createDateTimePipe} from '../src';
 
 describe('DateTimePipe', () => {
     it('appends date', () => {
