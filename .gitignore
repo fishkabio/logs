@@ -1,4 +1,5 @@
 .idea
+.npmrc
 dist
 node_modules
 local
