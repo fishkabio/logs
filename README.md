@@ -1,5 +1,7 @@
 # @fishka/logs
 
+Part of [fishka.bio](https://fishka.bio) — free browser-based bioinformatics tools.
+
 Console.log transformation pipes for structured logging in TypeScript.
 
 ## Installation
